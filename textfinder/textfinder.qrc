@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>macbeth.txt</file>
+    </qresource>
+</RCC>
